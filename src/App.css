@@ -27,6 +27,6 @@ button:hover {
   margin-top: 33px;
   display: grid;
   /* 4 different column that's why 1fr */
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr ;
   grid-gap: 20px;
 }
